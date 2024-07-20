@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hdVcEBbxAn4Fq6W7QS7Bq7Hro8YRng9fqBqdrBqljXaIJqvCnKpqYAFFlkXV05gblU7NJ3MqmA7U5Jam8W01yw==",
+  "dgSpecHash": "jK0RTIHbEfPDAnyuJqZCGr1xmEhTqtoLO7RZNaILldhrX0tuHWFo8Jxkk2iuAuWQV3YoGXT2SfwBWVIuQYqMBg==",
   "success": true,
-  "projectFilePath": "D:\\Dropbox\\Work\\PluralSight\\asp-dot-net-core-6-clean-architecture\\m5\\Demos\\GloboTicket.TicketManagement.Infrastructure\\GloboTicket.TicketManagement.Infrastructure.csproj",
+  "projectFilePath": "D:\\code\\CA\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Infrastructure\\GloboTicket.TicketManagement.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gill\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\gill\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

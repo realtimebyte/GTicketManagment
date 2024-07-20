@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YofOXLS9OtGXZOgvJxglYxkj5mVb67eBk53GKyr9/kGIshP9Wfk8BRPQUfmDap2gApjNIDa8Dm68Xml18jfPGw==",
+  "dgSpecHash": "kvnQ4qRd3kRw5NY95vWrIL5BDUR8tEJv9NvpHLOJxMAGj9dzn+EszD2e9HDELiGh1s8q6/UYD8FroYecV0+t/g==",
   "success": true,
-  "projectFilePath": "D:\\Dropbox\\Work\\PluralSight\\asp-dot-net-core-6-clean-architecture\\m5\\Demos\\GloboTicket.TicketManagement.Domain\\GloboTicket.TicketManagement.Domain.csproj",
+  "projectFilePath": "D:\\code\\CA\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Domain\\GloboTicket.TicketManagement.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
