@@ -1,6 +1,7 @@
 ﻿using GloboTicket.TicketManagement.Application.Contracts.Persistence;
 using GloboTicket.TicketManagement.Domain.Entities;
 using Moq;
+
 namespace GloboTicket.TicketManagement.Application.UnitTests.Mocks
 {
     public class RepositoryMocks
@@ -29,7 +30,7 @@ namespace GloboTicket.TicketManagement.Application.UnitTests.Mocks
                     CategoryId = conferenceGuid,
                     Name = "Conferences"
                 },
-                new Category
+                 new Category
                 {
                     CategoryId = playGuid,
                     Name = "Plays"
@@ -37,6 +38,7 @@ namespace GloboTicket.TicketManagement.Application.UnitTests.Mocks
             };
 
             var mockCategoryRepository = new Mock<IAsyncRepository<Category>>();
+            mockCategoryRepository.Setup(repo => repo.ListAllAsync()).ReturnsAsync(categories);
 
             mockCategoryRepository.Setup(repo => repo.AddAsync(It.IsAny<Category>())).ReturnsAsync(
                 (Category category) =>
