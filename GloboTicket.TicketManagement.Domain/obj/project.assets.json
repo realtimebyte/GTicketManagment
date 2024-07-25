@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\code\\CA\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Domain\\GloboTicket.TicketManagement.Domain.csproj",
+      "projectUniqueName": "D:\\GitHub\\ps-clean-architecture-aspnetcore6\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Domain\\GloboTicket.TicketManagement.Domain.csproj",
       "projectName": "GloboTicket.TicketManagement.Domain",
-      "projectPath": "D:\\code\\CA\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Domain\\GloboTicket.TicketManagement.Domain.csproj",
+      "projectPath": "D:\\GitHub\\ps-clean-architecture-aspnetcore6\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Domain\\GloboTicket.TicketManagement.Domain.csproj",
       "packagesPath": "C:\\Users\\gill\\.nuget\\packages\\",
-      "outputPath": "D:\\code\\CA\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Domain\\obj\\",
+      "outputPath": "D:\\GitHub\\ps-clean-architecture-aspnetcore6\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

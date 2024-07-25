@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NzAOEsfZ3rShURlL0usOvOoOAzeeF2S+YaO8L4y4zh2LpmY5CBY9Fs82PkVL/5AtcumY6x+JXAgg/IcX9imL4g==",
+  "dgSpecHash": "ohHxQl2hEcCEacPoAqbxDsBcjhGt9UiJvlq+/cclTFjSPcE6r9sUZU+sGm1Ido/hRdY8VgIL8c1+H6AfyQbYCA==",
   "success": true,
-  "projectFilePath": "D:\\code\\CA\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj",
+  "projectFilePath": "D:\\GitHub\\ps-clean-architecture-aspnetcore6\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gill\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\gill\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
@@ -13,9 +13,12 @@
     "C:\\Users\\gill\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\gill\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\gill\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\gill\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.2\\microsoft.extensions.logging.abstractions.6.0.2.nupkg.sha512",
     "C:\\Users\\gill\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\gill\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
-    "C:\\Users\\gill\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\gill\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\gill\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\gill\\.nuget\\packages\\system.text.json\\6.0.6\\system.text.json.6.0.6.nupkg.sha512"
   ],
   "logs": []
 }

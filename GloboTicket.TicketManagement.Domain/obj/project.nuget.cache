@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kvnQ4qRd3kRw5NY95vWrIL5BDUR8tEJv9NvpHLOJxMAGj9dzn+EszD2e9HDELiGh1s8q6/UYD8FroYecV0+t/g==",
+  "dgSpecHash": "J5CCq5uhOwYqWIGsS9JyKB+KJrjOxfhcGS61CsjN8jUzFSNI7sp1ujYF2FTBQDs7KeOgafGePBNuAR0zXp38hg==",
   "success": true,
-  "projectFilePath": "D:\\code\\CA\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Domain\\GloboTicket.TicketManagement.Domain.csproj",
+  "projectFilePath": "D:\\GitHub\\ps-clean-architecture-aspnetcore6\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Domain\\GloboTicket.TicketManagement.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

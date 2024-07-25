@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\code\\CA\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Persistence\\GloboTicket.TicketManagement.Persistence.csproj": {}
+    "D:\\GitHub\\ps-clean-architecture-aspnetcore6\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Persistence\\GloboTicket.TicketManagement.Persistence.csproj": {}
   },
   "projects": {
-    "D:\\code\\CA\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj": {
+    "D:\\GitHub\\ps-clean-architecture-aspnetcore6\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\CA\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj",
+        "projectUniqueName": "D:\\GitHub\\ps-clean-architecture-aspnetcore6\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj",
         "projectName": "GloboTicket.TicketManagement.Application",
-        "projectPath": "D:\\code\\CA\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj",
+        "projectPath": "D:\\GitHub\\ps-clean-architecture-aspnetcore6\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj",
         "packagesPath": "C:\\Users\\gill\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\CA\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\obj\\",
+        "outputPath": "D:\\GitHub\\ps-clean-architecture-aspnetcore6\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\code\\CA\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Domain\\GloboTicket.TicketManagement.Domain.csproj": {
-                "projectPath": "D:\\code\\CA\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Domain\\GloboTicket.TicketManagement.Domain.csproj"
+              "D:\\GitHub\\ps-clean-architecture-aspnetcore6\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Domain\\GloboTicket.TicketManagement.Domain.csproj": {
+                "projectPath": "D:\\GitHub\\ps-clean-architecture-aspnetcore6\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Domain\\GloboTicket.TicketManagement.Domain.csproj"
               }
             }
           }
@@ -68,6 +68,14 @@
             "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[11.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[6.0.6, )"
             }
           },
           "imports": [
@@ -90,14 +98,14 @@
         }
       }
     },
-    "D:\\code\\CA\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Domain\\GloboTicket.TicketManagement.Domain.csproj": {
+    "D:\\GitHub\\ps-clean-architecture-aspnetcore6\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Domain\\GloboTicket.TicketManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\CA\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Domain\\GloboTicket.TicketManagement.Domain.csproj",
+        "projectUniqueName": "D:\\GitHub\\ps-clean-architecture-aspnetcore6\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Domain\\GloboTicket.TicketManagement.Domain.csproj",
         "projectName": "GloboTicket.TicketManagement.Domain",
-        "projectPath": "D:\\code\\CA\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Domain\\GloboTicket.TicketManagement.Domain.csproj",
+        "projectPath": "D:\\GitHub\\ps-clean-architecture-aspnetcore6\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Domain\\GloboTicket.TicketManagement.Domain.csproj",
         "packagesPath": "C:\\Users\\gill\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\CA\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Domain\\obj\\",
+        "outputPath": "D:\\GitHub\\ps-clean-architecture-aspnetcore6\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -150,14 +158,14 @@
         }
       }
     },
-    "D:\\code\\CA\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Persistence\\GloboTicket.TicketManagement.Persistence.csproj": {
+    "D:\\GitHub\\ps-clean-architecture-aspnetcore6\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Persistence\\GloboTicket.TicketManagement.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\CA\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Persistence\\GloboTicket.TicketManagement.Persistence.csproj",
+        "projectUniqueName": "D:\\GitHub\\ps-clean-architecture-aspnetcore6\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Persistence\\GloboTicket.TicketManagement.Persistence.csproj",
         "projectName": "GloboTicket.TicketManagement.Persistence",
-        "projectPath": "D:\\code\\CA\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Persistence\\GloboTicket.TicketManagement.Persistence.csproj",
+        "projectPath": "D:\\GitHub\\ps-clean-architecture-aspnetcore6\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Persistence\\GloboTicket.TicketManagement.Persistence.csproj",
         "packagesPath": "C:\\Users\\gill\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\CA\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Persistence\\obj\\",
+        "outputPath": "D:\\GitHub\\ps-clean-architecture-aspnetcore6\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -179,8 +187,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\code\\CA\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj": {
-                "projectPath": "D:\\code\\CA\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj"
+              "D:\\GitHub\\ps-clean-architecture-aspnetcore6\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj": {
+                "projectPath": "D:\\GitHub\\ps-clean-architecture-aspnetcore6\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj"
               }
             }
           }

@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace GloboTicket.TicketManagement.Persistence
 {
-    public class GloboTicketDbContext : DbContext
+    public class GloboTicketDbContext: DbContext
     {
         private readonly ILoggedInUserService? _loggedInUserService;
 

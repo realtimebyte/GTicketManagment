@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N+FHxLvDfHlQ93SoQ3HFGrtm5fOUoPit0cx+S9uuoMAhZcoL/s0aFlyQ9XN3tt6hWAAtq7Wxwx4Ta6ok0sieVA==",
+  "dgSpecHash": "Y06OgWetL/t3AbsBOXRpyPQpsBglTBuKgl4EgtqzAmk4IkPS4NhKDWu4xhwCoZ1odHY9j8ygXMPGEzU8fjACEg==",
   "success": true,
-  "projectFilePath": "D:\\code\\CA\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Persistence\\GloboTicket.TicketManagement.Persistence.csproj",
+  "projectFilePath": "D:\\GitHub\\ps-clean-architecture-aspnetcore6\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Persistence\\GloboTicket.TicketManagement.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gill\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\gill\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
@@ -31,7 +31,7 @@
     "C:\\Users\\gill\\.nuget\\packages\\microsoft.extensions.identity.core\\6.0.10\\microsoft.extensions.identity.core.6.0.10.nupkg.sha512",
     "C:\\Users\\gill\\.nuget\\packages\\microsoft.extensions.identity.stores\\6.0.10\\microsoft.extensions.identity.stores.6.0.10.nupkg.sha512",
     "C:\\Users\\gill\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
-    "C:\\Users\\gill\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\gill\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.2\\microsoft.extensions.logging.abstractions.6.0.2.nupkg.sha512",
     "C:\\Users\\gill\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\gill\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\6.0.0\\microsoft.extensions.options.configurationextensions.6.0.0.nupkg.sha512",
     "C:\\Users\\gill\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
@@ -57,6 +57,8 @@
     "C:\\Users\\gill\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
     "C:\\Users\\gill\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\gill\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
+    "C:\\Users\\gill\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\gill\\.nuget\\packages\\system.text.json\\6.0.6\\system.text.json.6.0.6.nupkg.sha512",
     "C:\\Users\\gill\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
   "logs": []
