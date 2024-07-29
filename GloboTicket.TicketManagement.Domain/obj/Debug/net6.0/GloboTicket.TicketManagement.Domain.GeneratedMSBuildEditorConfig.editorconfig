@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GloboTicket.TicketManagement.Domain
-build_property.ProjectDir = D:\GitHub\ps-clean-architecture-aspnetcore6\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Domain\
+build_property.ProjectDir = C:\Users\Admin\Source\repos\GTicketManagment\GloboTicket.TicketManagement.Domain\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

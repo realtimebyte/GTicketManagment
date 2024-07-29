@@ -7324,23 +7324,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gill\\.nuget\\packages\\": {},
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\ps-clean-architecture-aspnetcore6\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application.UnitTests\\GloboTicket.TicketManagement.Application.UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Source\\repos\\GTicketManagment\\GloboTicket.TicketManagement.Application.UnitTests\\GloboTicket.TicketManagement.Application.UnitTests.csproj",
       "projectName": "GloboTicket.TicketManagement.Application.UnitTests",
-      "projectPath": "D:\\GitHub\\ps-clean-architecture-aspnetcore6\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application.UnitTests\\GloboTicket.TicketManagement.Application.UnitTests.csproj",
-      "packagesPath": "C:\\Users\\gill\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\ps-clean-architecture-aspnetcore6\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application.UnitTests\\obj\\",
+      "projectPath": "C:\\Users\\Admin\\Source\\repos\\GTicketManagment\\GloboTicket.TicketManagement.Application.UnitTests\\GloboTicket.TicketManagement.Application.UnitTests.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\Source\\repos\\GTicketManagment\\GloboTicket.TicketManagement.Application.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\gill\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -7356,8 +7356,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\GitHub\\ps-clean-architecture-aspnetcore6\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj": {
-              "projectPath": "D:\\GitHub\\ps-clean-architecture-aspnetcore6\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj"
+            "C:\\Users\\Admin\\Source\\repos\\GTicketManagment\\GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Source\\repos\\GTicketManagment\\GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj"
             }
           }
         }
@@ -7366,6 +7366,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -7417,7 +7422,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

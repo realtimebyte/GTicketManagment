@@ -9,10 +9,8 @@ namespace GloboTicket.TicketManagement.Persistence
     {
         private readonly ILoggedInUserService? _loggedInUserService;
 
-        //public GloboTicketDbContext(DbContextOptions<GloboTicketDbContext> options)
-        //   : base(options)
-        //{
-        //}
+        public GloboTicketDbContext(DbContextOptions<GloboTicketDbContext> options)
+           : base(options) {}
 
         public GloboTicketDbContext(DbContextOptions<GloboTicketDbContext> options, ILoggedInUserService loggedInUserService)
             : base(options)
